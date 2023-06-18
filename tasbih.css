@@ -43,6 +43,11 @@ body{
     .main{
     width: 300px;
     }
+    .main button{
+        font-size: 15px;
+        width:100px ;
+        height: 40px;
+    }
     
     
 }
